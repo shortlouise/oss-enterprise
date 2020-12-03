@@ -5,11 +5,11 @@ I would like to use github.com/ORG/REPO as a dependency in the XYZ project. This
 ## Project Health Check
 
 - [ ] The license is acceptable per our [license policy](docs/license-policy.md)
-- [ ] The repository is well maintained
-   - Security vulnerabilities are addressed in a timely manner
-   - Project shows regular activity
-   - Bugs reported in issues are addressed promptly
+- [ ] The repository is very much not well maintained
+   - Security vulnerabilities may be addressed if we notice them
+   - Project shows irregular activity
+   - Bugs reported in issues are ignored if they're even noticed
 
 ## Internal Process
 
-- [ ] Notify the xyz team that you intend to use this project
+- [ ] Notify the xyz team that you intend to use this project - they'll ignore you but you should still notify them
